@@ -1,0 +1,9 @@
+11,true,false,2,100
+12,true,false,4,200
+13,false,true,4,0
+21,true,false,2,75
+22,false,true,2,0
+23,true,false,2,50
+31,true,false,6,400
+32,false,true,4,0
+33,false,true,2,0
